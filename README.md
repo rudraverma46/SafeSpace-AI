@@ -2,11 +2,11 @@
 
 SafeSpace AI is a multimodal **Stress Detection and Analysis System** that combines physiological signals, facial expressions, voice input, and psychological assessment to provide intelligent mental health insights and personalized suggestions.
 
-📱 Download Android App: https://github.com/rudraverma46/SafeS... 
-🌐 Live Demo: https://safespace-ai.netlify.app/
-Email : rudraverma4682@gmail.com
-LinkedIn : https://www.linkedin.com/in/rudra-verma-b03330324/
-youtube : https://www.youtube.com/watch?v=_-fJuH7gFWA
+- 📱 **Download Android App:** [Click Here](https://github.com/rudraverma46/SafeSpace-AI/releases/download/v1.0/safespaceai.apk)
+- 🌐 **Live Demo:** [https://safespace-ai.netlify.app/](https://safespace-ai.netlify.app/)
+- 📧 **Email:** [rudraverma4682@gmail.com](mailto:rudraverma4682@gmail.com)
+- 💼 **LinkedIn:** [Rudra Verma](https://www.linkedin.com/in/rudra-verma-b03330324/)
+- 🎥 **YouTube:** [Watch Project Demo](https://www.youtube.com/watch?v=_-fJuH7gFWA)
 
 ---
 
@@ -163,9 +163,6 @@ uvicorn main:app --reload
 
 ---
 
-## 📦 Models
-
-Due to size constraints, trained models are not included in the repository.
 
 ## 📦 Models
 
