@@ -212,9 +212,8 @@ Research Project
 ## 📬 Contact
 
 For queries or collaboration:
+- 📧 **Email:** [rudraverma4682@gmail.com](mailto:rudraverma4682@gmail.com)
 - 💼 **LinkedIn:** [Rudra Verma](https://www.linkedin.com/in/rudra-verma-b03330324/)
-- 🎥 **YouTube:** [Watch Project Demo](https://www.youtube.com/watch?v=_-fJuH7gFWA)
-
 ---
 
 ## ⭐ Future Improvements
