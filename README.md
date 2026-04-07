@@ -2,7 +2,11 @@
 
 SafeSpace AI is a multimodal **Stress Detection and Analysis System** that combines physiological signals, facial expressions, voice input, and psychological assessment to provide intelligent mental health insights and personalized suggestions.
 
-🌐 **Live Demo:** https://safespace-ai.netlify.app/
+📱 Download Android App: https://github.com/rudraverma46/SafeS... 
+🌐 Live Demo: https://safespace-ai.netlify.app/
+Email : rudraverma4682@gmail.com
+LinkedIn : https://www.linkedin.com/in/rudra-verma-b03330324/
+youtube : https://www.youtube.com/watch?v=_-fJuH7gFWA
 
 ---
 
