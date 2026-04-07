@@ -212,8 +212,8 @@ Research Project
 ## 📬 Contact
 
 For queries or collaboration:
-Email : rudraverma4682@gmail.com
-LinkedIn : https://www.linkedin.com/in/rudra-verma-b03330324/
+-Email : rudraverma4682@gmail.com
+-LinkedIn : https://www.linkedin.com/in/rudra-verma-b03330324/
 
 ---
 
