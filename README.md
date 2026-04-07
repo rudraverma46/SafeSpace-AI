@@ -4,8 +4,6 @@ SafeSpace AI is a multimodal **Stress Detection and Analysis System** that combi
 
 - 📱 **Download Android App:** [Click Here](https://github.com/rudraverma46/SafeSpace-AI/releases/download/v1.0/safespaceai.apk)
 - 🌐 **Live Demo:** [https://safespace-ai.netlify.app/](https://safespace-ai.netlify.app/)
-- 📧 **Email:** [rudraverma4682@gmail.com](mailto:rudraverma4682@gmail.com)
-- 💼 **LinkedIn:** [Rudra Verma](https://www.linkedin.com/in/rudra-verma-b03330324/)
 - 🎥 **YouTube:** [Watch Project Demo](https://www.youtube.com/watch?v=_-fJuH7gFWA)
 
 ---
